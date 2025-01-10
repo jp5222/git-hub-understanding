@@ -1,5 +1,5 @@
-function sub(a,b){
-    return a-b;
+function add(a,b){
+    return a+b;
 }
 
-console.log(sub(100000,40000));
+console.log(add(4,6))
